@@ -1,0 +1,8 @@
+README.md
+setup.py
+cove/__init__.py
+cove/encoder.py
+cove.egg-info/PKG-INFO
+cove.egg-info/SOURCES.txt
+cove.egg-info/dependency_links.txt
+cove.egg-info/top_level.txt
