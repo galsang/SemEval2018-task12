@@ -9,9 +9,9 @@ for [SemEval-2018 Task 12 - The Argument Reasoning Comprehension Task](https://c
 |--------------|:----------:|:----------:|
 | Intra-attention [(Harbenal et al., 2018)](https://arxiv.org/abs/1708.01425)            | 63.8 | 55.6 |
 | Intra-attention w/context [(Harbenal et al., 2018)](https://arxiv.org/abs/1708.01425)  | 63.7 | 56.0 |
-| **SECOVARC-last (w/o heruistics)**  | 70.1 | 55.9 |
-| **SECOVARC-last (w/ heruistics)**  | **70.6** | 55.4 |
-| **SECOVARC-max (w/o heruistics)**  | 68.0 | 59.1 |
+| **SECOVARC-last (w/o heuristics)**  | 70.1 | 55.9 |
+| **SECOVARC-last (w/ heuristics)**  | **70.6** | 55.4 |
+| **SECOVARC-max (w/o heuristics)**  | 68.0 | 59.1 |
 | **SECOVARC-max (w/ heuristics)**   | 68.4 | **59.2** |
 
 ## Development Environment
